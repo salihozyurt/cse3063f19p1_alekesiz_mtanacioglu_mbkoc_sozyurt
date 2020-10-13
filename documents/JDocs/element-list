@@ -1,0 +1,11 @@
+BL
+BL.squares
+BL.squares.communitychestcards
+BL.squares.luckcards
+Controller
+DAL
+spring.config.squares
+spring.consumer
+spring.factory
+spring.log
+UI

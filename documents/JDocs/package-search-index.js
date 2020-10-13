@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"BL"},{"l":"BL.squares"},{"l":"BL.squares.communitychestcards"},{"l":"BL.squares.luckcards"},{"l":"Controller"},{"l":"DAL"},{"l":"spring.config.squares"},{"l":"spring.consumer"},{"l":"spring.factory"},{"l":"spring.log"},{"l":"UI"}]
